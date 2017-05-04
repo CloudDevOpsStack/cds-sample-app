@@ -6,8 +6,6 @@ Run this app by following commands,
 	
 	docker create --name <Container-Name> -p <Exposed_Port>:<Internal-Port> <Image-name> 
 	
-	Docker ps 
+	docker start <Container-Name>
 	
-
-
-
+	Docker ps 
